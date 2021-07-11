@@ -12,19 +12,8 @@
 在网页中添加 Live2D 看板娘。兼容 PJAX，支持无刷新加载。  
 Add Live2D widget to web page. Compatible with PJAX.
 
-**警告：本项目使用了大量 ES6 语法，不支持 IE 11 等老旧浏览器。**  
+**警告：本项目使用了大量 ES6 语法，不支持 IE 11 等浏览器。**  
 **WARNING: This project does not support legacy browsers such as IE 11.**
-
-## 示例 Demo
-
-在[米米的博客](https://zhangshuqiao.org)的左下角可查看效果。（注：以下人物模型仅供展示之用，本仓库并不包含任何模型。）
-
-<img src="assets/screenshot-2.png" width="280"><img src="assets/screenshot-3.png" width="280"><img src="assets/screenshot-1.png" width="270">
-
-你也可以在允许的范围内进行二次开发，这里有一些示例
-
-- [demo.html](https://mi.js.org/live2d-widget/demo/demo.html) ，展现基础效果
-- [login.html](https://mi.js.org/live2d-widget/demo/login.html) ，仿 NPM 的登陆界面
 
 ## 依赖 Dependencies
 
